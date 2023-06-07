@@ -36,6 +36,9 @@ href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carou
               <a class="nav-link" href="/desarrolladores"> Desarrolladores </a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="/desarrolladores"> Programadores </a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="/contact">Contactanos</a>
             </li>
           </ul>
